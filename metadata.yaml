@@ -1,0 +1,28 @@
+_repo: Missing-FriendsBeing-the-Adventures-of-a-Danish-Emigrant-in-Queensland--1871-1880-_36399
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weitemeyer, Thorvald Peter Ludwig
+    birthdate: 1850
+    gutenberg_agent_id: '38254'
+    url: http://www.gutenberg.org/2009/agents/38254
+description: ''
+gutenberg_issued: '2011-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36399'
+  lccn: 06019824
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Queensland -- Description and travel'
+- !lcc 'DU'
+title: 'Missing Friends
+
+  Being the Adventures of a Danish Emigrant in Queensland (1871-1880)'
+url: http://www.gutenberg.org/ebooks/36399
